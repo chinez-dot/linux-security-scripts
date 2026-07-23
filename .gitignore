@@ -1,0 +1,4 @@
+*.env
+*.log
+id_rsa*
+.DS_Store
